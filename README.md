@@ -28,6 +28,13 @@ eliminando
 vemos en el listado y si se elimino 
 ![image](https://user-images.githubusercontent.com/99548614/236660127-a230683a-5453-4339-b3aa-15c21cce67f0.png)
 
+base de datos funcionando correctamente 
+![image](https://user-images.githubusercontent.com/99548614/236660479-840312d5-c5c2-4832-be06-546ce1628bb5.png)
+
+![image](https://user-images.githubusercontent.com/99548614/236660715-0d566098-d5f8-4ab6-a5cb-2ec0f6d937e2.png)
+
+
+
 captura de los test
 ![image](https://user-images.githubusercontent.com/99548614/236660287-a6ccce4c-db1e-4143-a797-a68c155c70fb.png)
 
