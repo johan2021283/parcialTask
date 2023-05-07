@@ -1,6 +1,7 @@
 # parcialTask
 ventan de swagger
-![image](https://user-images.githubusercontent.com/99548614/236659921-1291f16f-3258-404f-a37c-2494788d952a.png)
+![image](https://user-images.githubusercontent.com/99548614/236660250-b5adc1aa-de2d-4209-8fe2-b9239574ebfb.png)
+
 
 usando get para mostrar todo el listado 
 ![image](https://user-images.githubusercontent.com/99548614/236659997-f9beca7b-a71a-4fe7-8f15-bd65967feb2e.png)
@@ -27,6 +28,10 @@ eliminando
 vemos en el listado y si se elimino 
 ![image](https://user-images.githubusercontent.com/99548614/236660127-a230683a-5453-4339-b3aa-15c21cce67f0.png)
 
+captura de los test
+![image](https://user-images.githubusercontent.com/99548614/236660287-a6ccce4c-db1e-4143-a797-a68c155c70fb.png)
+
+![image](https://user-images.githubusercontent.com/99548614/236660312-660403a6-b900-49e6-9aad-9802d08b9514.png)
 
 
 
