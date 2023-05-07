@@ -26,7 +26,7 @@ public class TaskController {
     }
 
     @PostMapping()
-    public Task createTask( @PathVariable ("id") Long id, @RequestBody Task task){
+    public Task createTask( @RequestBody Task task){
         taskService.create(task);
         return task;
     }
